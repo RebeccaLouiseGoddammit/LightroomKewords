@@ -16967,6 +16967,12 @@ Taxonomy
 						New World Sparrows (Family Passerellidae)
 							{New World Sparrows}
 							{Passerellidae}
+							Thicket Sparrows (Genus Aimophila)
+								{Thicket Sparrows}
+								{Aimophila}
+								Rufous-crowned Sparrow (Aimophila ruficeps)
+									{Rufous-crowned Sparrow}
+									{Aimophila ruficeps}
 							Grass Sparrows (Genus Ammodramus)
 								{Grass Sparrows}
 								{Ammodramus}
@@ -17616,6 +17622,9 @@ Taxonomy
 								Cuban Vireo (Vireo gundlachii)
 									{Cuban Vireo}
 									{Vireo gundlachii}
+								Hutton's Vireo (Vireo huttoni)
+									{Hutton's Vireo}
+									{Vireo huttoni}
 								Red-eyed Vireo (Vireo olivaceus)
 									{Red-eyed Vireo}
 									{Vireo olivaceus}
@@ -18437,6 +18446,15 @@ Taxonomy
 					Even-toed Ungulates & Cetaceans (Order Artiodactyla)
 						{Even-toed Ungulates & Cetaceans}
 						{Artiodactyla}
+						Bovids (Family Bovidae)
+							{Bovids}
+							{Bovidae}
+							Bison (Genus Bison)
+								{Bison}
+								{Bison}
+								American Bison (Bison bison)
+									{American Bison}
+									{Bison bison}
 						Deer (Family Cervidae)
 							{Deer}
 							{Cervidae}
@@ -18506,6 +18524,12 @@ Taxonomy
 						Squirrels (Family Sciuridae)
 							{Squirrels}
 							{Sciuridae}
+							Ground and African Tree Squirrels (Genus Otospermophilus)
+								{Ground and African Tree Squirrels}
+								{Otospermophilus}
+								Rock Squirrel (Otospermophilus variegatus)
+									{Rock Squirrel}
+									{Otospermophilus variegatus}
 							Tree Squirrels (Genus Sciurus)
 								{Tree Squirrels}
 								{Sciurus}
